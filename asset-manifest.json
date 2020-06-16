@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Danube-Web/static/css/main.24e39de4.chunk.css",
+    "main.js": "/Danube-Web/static/js/main.54c4d29d.chunk.js",
+    "main.js.map": "/Danube-Web/static/js/main.54c4d29d.chunk.js.map",
+    "runtime-main.js": "/Danube-Web/static/js/runtime-main.b171ac7e.js",
+    "runtime-main.js.map": "/Danube-Web/static/js/runtime-main.b171ac7e.js.map",
+    "static/js/2.356ddda8.chunk.js": "/Danube-Web/static/js/2.356ddda8.chunk.js",
+    "static/js/2.356ddda8.chunk.js.map": "/Danube-Web/static/js/2.356ddda8.chunk.js.map",
+    "index.html": "/Danube-Web/index.html",
+    "precache-manifest.682de70fb392f486a18e34ffa3187a1e.js": "/Danube-Web/precache-manifest.682de70fb392f486a18e34ffa3187a1e.js",
+    "service-worker.js": "/Danube-Web/service-worker.js",
+    "static/css/main.24e39de4.chunk.css.map": "/Danube-Web/static/css/main.24e39de4.chunk.css.map",
+    "static/js/2.356ddda8.chunk.js.LICENSE.txt": "/Danube-Web/static/js/2.356ddda8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b171ac7e.js",
+    "static/js/2.356ddda8.chunk.js",
+    "static/css/main.24e39de4.chunk.css",
+    "static/js/main.54c4d29d.chunk.js"
+  ]
+}
